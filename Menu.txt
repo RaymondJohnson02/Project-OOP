@@ -1,0 +1,25 @@
+Appetizer,Escargots a la Bourguignonne,28000,10,halal
+Appetizer,Honey Lime Rainbow Fruit Salad,25000,8,vegan
+Appetizer,Vegetable Salad,25000,9,vegan
+Appetizer,Duck Pate en Croute,65000,10,halal
+Appetizer,Gougeres,40000,11,halal
+Appetizer,Fromage Blanc Spread,30000,11,halal
+MainCourse,Boeuf Bourguignon,120000,20,halal
+MainCourse,Croque Monsieur,80000,15,normal
+MainCourse,Bouillabaisse,75000,17,halal
+MainCourse,Chicken Cordon Bleu Pasta,150000,18,normal
+MainCourse,Coq au vin,125000,20,halal
+MainCourse,Honey-Lacquered Duck Breast,140000,25,halal
+MainCourse,Spicy Fish and Olive Spaghetti,90000,20,halal
+MainCourse,Venison Stew,115000,19,halal
+MainCourse,Chicken and Sausage Cassoulet,130000,18,halal
+Dessert,Vanilla Ice Cream,8000,30,Vanilla
+Dessert,Choco Glazed Ice Cream,9000,45,Chocolate
+Dessert,Strawberry Shortcake,12000,40,Strawberry
+Dessert,Chocolate Bomb Cake,20000,20,Chocolate
+Drink,Lemon Tea,5000,100,Medium
+Drink,Lemon Tea,7000,100,Large
+Drink,Coffee,6000,120,Large
+Drink,Orange Juice,8000,35,Large
+Drink,Coke,9000,20,Medium 
+
